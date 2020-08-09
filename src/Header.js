@@ -9,7 +9,7 @@ import Avatar from '@material-ui/core/Avatar';
 
 function Header() {
   return (
-    <div class Name="header">
+    <div className="header">
       <div className="header__left">
         <MenuIcon />
         <img
@@ -18,17 +18,20 @@ function Header() {
           alt=""
         />
       </div>
+
       <div className="header__input">
-        <input type="text" />
-      </div>
-      <div className="header__icons">
+        <input type="text" />        
         <SearchIcon />
+      </div>
+
+      <div className="header__icons">
+
         <VideoCallIcon />
         <AppsIcon />
         <NotificationsIcon />
         <Avatar
+          src="https://avatars0.githubusercontent.com/u/55864051?s=400&u=d17ca8209ac548d3d3033ddbe93f9741b7123263&v=4"          
           alt="Shaqib Habib"
-          src="https://avatars0.githubusercontent.com/u/55864051?s=400&u=d17ca8209ac548d3d3033ddbe93f9741b7123263&v=4"
         />
       </div>
     </div>
