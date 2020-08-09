@@ -15,12 +15,28 @@
   display: flex;
   align-items: center;
   width: 40%;
-  border: 1px solid black;
+  border: 1px solid lightgray;
+}
+
+.header__icon {
+  margin-right: 5px;
+}
+
+.header__input {
+  margin-right: 5px;
+}
+
+.header__inputButton {
+width: 50px !important;
+background-color: #fafafa;
+border-left: 1px solid lightgrey;
+color: gray
 }
 
 .header__icons {
   display: flex;
   align-items: center;
+  
 }
 
 .header__input > input {
