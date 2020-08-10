@@ -10,12 +10,12 @@ function App() {
     <div className="app">
       <Router>
         <Header />
+
         <Switch>
           <Route path="/search/:searchTerm">
             <h1>Search Page</h1>
           </Route>
           <Route path="/">
-            <Header />
             <div className="app__page">
               <Sidebar />
               <RecommendedVideos />
