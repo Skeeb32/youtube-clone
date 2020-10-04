@@ -21,16 +21,16 @@ function RecommendedVideos() {
           timestamp="3 days ago"
           channelImage="https://yt3.ggpht.com/a-/AOh14Gj9IN5ckfM8Z7FJpAY5qwFN04yu3IJeOBWp7g=s68-c-k-c0x00ffffff-no-rj-mo"
           channel="Animated Ginger"
-          image="https://i.ytimg.com/an_webp/cZpvCC6_RiU/mqdefault_6s_480x270.webp?du=3000&sqp=CIKS3vkF&rs=AOn4CLBalctTy3C80qtieL9AJ6MmAcyxAA"
+          image="https://i.ytimg.com/vi/3sOkVApW3h4/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB4kYrcaYzdVKJgCyGzX7W2WGE2oA"
         />
 
         <VideoCard
-          title="🔴 How to Make Money Coding with REACT JS"
+          title="🔴 Late Nights At The Coffee Shop"
           views="22K Views"
           timestamp="Streamed 1 month ago"
           channelImage="https://yt3.ggpht.com/a-/AOh14GhOUP_9re93yOMdN4RLQLHl6Mbk6vmUS1524w=s68-c-k-c0x00ffffff-no-rj-mo"
           channel="Clever PRogrammer"
-          image="https://i.ytimg.com/an_webp/n8NyJxy27uk/mqdefault_6s.webp?du=3000&sqp=CPO83vkF&rs=AOn4CLDTzD7C_rjcYoSlIuLvvzrXn4nl9w"
+          image="https://i.ytimg.com/vi/-5KAN9_CzSA/hq720_live.jpg?sqp=-oaymwEZCOgCEMoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCmg_ZMIF4U1sUNLZ93lS-B2aO0Iw"
         />
 
         <VideoCard
@@ -57,16 +57,16 @@ function RecommendedVideos() {
           timestamp="8 months ago"
           channelImage="https://yt3.ggpht.com/a-/AOh14Ghx42IpK24SHjB994Lg5mJbVIdPC1q5upcaKg=s68-c-k-c0x00ffffff-no-rj-mo"
           channel="Shaqib Habib"
-          image="https://i.ytimg.com/an_webp/U_NtUA86xZ8/mqdefault_6s.webp?du=3000&sqp=CNiJ3vkF&rs=AOn4CLAa9NpodhNsk5PCXVM5N4p1Yx8VQw"
+          image="https://i.ytimg.com/vi/QNk3WX33SGc/hq720.jpg?sqp=-oaymwEZCOgCEMoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB4v89yOVqonjdu-g7ofpBNjGWN5Q"
         />
 
         <VideoCard
-          title="USPS: Last Week Tonight with John Oliver (HBO)"
+          title="US History: Last Week Tonight with John Oliver (HBO)"
           views="7.1M Views"
           timestamp="3 months ago"
           channelImage="https://yt3.ggpht.com/a-/AOh14Gjz6io9RJjTqDd5jAj1ZB9vQIbkMtHZAy1p6Q=s68-c-k-c0x00ffffff-no-rj-mo"
           channel="LastWeekTonight"
-          image="https://i.ytimg.com/an_webp/IoL8g0W9gAQ/mqdefault_6s.webp?du=3000&sqp=CMTJ3vkF&rs=AOn4CLDwbdqrLNaPwdMBtf69LGTw6zMm-w"
+          image="https://i.ytimg.com/vi/hsxukOPEdgg/hq720.jpg?sqp=-oaymwEZCOgCEMoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAyNGxHI4DxYQKUl5M2__uffQbaAw"
         />
 
         <VideoCard
@@ -75,7 +75,7 @@ function RecommendedVideos() {
           timestamp="7 days ago"
           channelImage="https://yt3.ggpht.com/a-/AOh14GgXU-P7iSwZek51vN4YXqItLM49G7SPn2lPwg=s68-c-k-c0x00ffffff-no-rj-mo"
           channel="Crisis Clips"
-          image="https://i.ytimg.com/an_webp/wt26xI5fw2w/mqdefault_6s_480x270.webp?du=3000&sqp=CIi23vkF&rs=AOn4CLCfQP8kqq6HG13Aq4NSfo7bpYVjoA"
+          image="https://i.ytimg.com/vi/sFbIHFZAGhc/mqdefault.jpg"
         />
 
         <VideoCard
@@ -84,7 +84,7 @@ function RecommendedVideos() {
           timestamp="1 day ago"
           channelImage="https://yt3.ggpht.com/a-/AOh14Ghb_ywcHCQ4QOx0odAVd4gh0cQp1BzE54X5jg=s68-c-k-c0x00ffffff-no-rj-mo"
           channel="They Daily Show with Trevor Noah"
-          image="https://i.ytimg.com/an_webp/P-F83NMMmQg/mqdefault_6s.webp?du=3000&sqp=CNi43vkF&rs=AOn4CLAO9ApPG3H5CO_WkT9NTs-ku5BxLg"
+          image="https://i.ytimg.com/sh/aDmMbMNp-xdAsQ31d1Urng/market.jpg"
         />
 
         <VideoCard
@@ -93,7 +93,7 @@ function RecommendedVideos() {
           timestamp="1 year ago"
           channelImage="https://yt3.ggpht.com/a-/AOh14Gj_kD_9yNI9KrmU5NYGdMfZuekjcdAg1MNGjw=s68-c-k-c0x00ffffff-no-rj-mo"
           channel="Patriot Act"
-          image="https://i.ytimg.com/an_webp/v5DWJv1hiwM/mqdefault_6s_480x270.webp?du=3000&sqp=CIrB3vkF&rs=AOn4CLDW3cXINQLSCy65Qs-1Y18e9vaggA"
+          image="https://i.ytimg.com/vi/saMXvVzvgOg/hq720.jpg?sqp=-oaymwEZCOgCEMoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLALLNAyUWIJZZmHVIrHfYtanz8rZw"
         />
 
         <VideoCard
@@ -110,7 +110,7 @@ function RecommendedVideos() {
           timestamp="5 days ago"
           channelImage="https://yt3.ggpht.com/a-/AOh14Ggt5K1cZd9JJ67vlxWpAHbOKdioCAj1_QBTaQ=s68-c-k-c0x00ffffff-no-rj-mo"
           channel="Will Smith"
-          image="https://i.ytimg.com/an_webp/Itr3jnGNNEo/mqdefault_6s.webp?du=3000&sqp=CLLP3vkF&rs=AOn4CLBwWA_fkfyUdjZljDGttuokaLTJ9w"
+          image="https://i.ytimg.com/vi/IwBS6QGsH_4/mqdefault.jpg"
         />
         <VideoCard
           title="The One Piece Timeline"
@@ -118,7 +118,7 @@ function RecommendedVideos() {
           timestamp="8 days ago"
           channelImage="https://yt3.ggpht.com/a-/AOh14Gi1sPYoDbCYxqVZGwQzDTd5L5ZrZphEQG9JaQ=s68-c-k-c0x00ffffff-no-rj-mo"
           channel="One Piece"
-          image="https://i.ytimg.com/an_webp/tuFp3Iv1T4E/mqdefault_6s_480x270.webp?du=3000&sqp=CNWz3vkF&rs=AOn4CLA7Br61yzKacNnfsgdNFrYx7bSeog"
+          image="https://i.ytimg.com/vi/9GOytLsnprk/mqdefault.jpg"
         />
         <VideoCard
           title="Kabira Full Song Yeh Jawaani Hai Deewani - Ranbir Kapoor, Deepika Padukone"
@@ -126,7 +126,7 @@ function RecommendedVideos() {
           timestamp="7 years ago"
           channelImage="https://i.ytimg.com/an_webp/jHNNMj5bNQw/mqdefault_6s_480x270.webp?du=3000&sqp=CJzF3vkF&rs=AOn4CLDYApTdJYr4JUQBxMNtK6LTjbOriQ"
           channel="T Seriese"
-          image="https://i.ytimg.com/an_webp/jHNNMj5bNQw/mqdefault_6s_480x270.webp?du=3000&sqp=CJzF3vkF&rs=AOn4CLDYApTdJYr4JUQBxMNtK6LTjbOriQ"
+          image="https://i.ytimg.com/vi/MuCfsZk9lbU/mqdefault.jpg"
         />
         <VideoCard
           title="1 Hour Studio Ghibli Lofi Mix"
@@ -134,7 +134,7 @@ function RecommendedVideos() {
           timestamp="11 days ago"
           channelImage="https://yt3.ggpht.com/a-/AOh14GhJLQz9kDewIgQNDKe4N-LQcD-7sXgp5Oe0pw=s68-c-k-c0x00ffffff-no-rj-mo"
           channel="Studio Ghibli"
-          image="https://i.ytimg.com/an_webp/LMTGQqUUyzk/mqdefault_6s_480x270.webp?du=3000&sqp=CI_E3vkF&rs=AOn4CLAceLrO0x9YEd7tbAcfGpMEFWXuLQ"
+          image="https://i.ytimg.com/vi/YnWjlpTHUZw/hq720.jpg?sqp=-oaymwEZCOgCEMoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBIh65n4oqL3G3m72mMkfzfOgzEeQ"
         />
       </div>
     </div>
